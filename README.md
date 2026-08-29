@@ -1,2 +1,1 @@
-# my-game
-game racing
+game
